@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mythic-rain-462716-b4",
+  "private_key_id": "8aef738a1a5f6c61911498c20a8be28e2693f398",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCLaQEVJrRiYSrD\n6c39LbWlKs2i03+EFSB88i/inQ4YHn+/ue8/A1ESTGo7F8JD3tH7Koxr0Mk/x6Df\nEXf5i8HccAm/x3Ddi2x6SmEVWp18mab/Z50MO/kGDostCuUg7+xNodc9iOLptBzU\nOz2dt6jRxE4pe4w1jD0v7wjya0BxEsC1exQpeeDq21cSvzsQio8fMMcm3gOi54fH\nOAAobUBJSNdEiluXRGYZN8Cnf9AV5ooRm5UFn2nqLEHs5YQeg1xNfwBqhMYohVzB\nMtAnEO/BWCzRr+xgI42xpB7eBap4EX97GNNb6E+PpqtA9ULMf4KAcHeIPvU6LYNU\nnx2W8mRzAgMBAAECggEABtBiscWwQN6HS9zn921I6qlJwsuYarV4+zX/5RFJWpJV\nR2Lr5f8SATHLTeVVq/d3TlHgW/a3QiROROx+0x1OQH7f3ADj1sL44DinsZM5/0NE\neEk/mQbD2GLGmJgt5k6gP1tfALkGRryQ6/GTxJRUkiEWz9N5YTanSr+MhucJOnoB\n3zhM9n/HdbmJdMUF6BAgtJpiN+eC6Fan/W0FjRoWjUlBDPxzLTDAzvqidUjEzM0d\nrQq79xyt2HqOZHGEUjTA16xSLRs1tcJFz9WQxVdXxaUR2P+M2+fu1atixkbkyvaY\n4mhPgFoCC/nYnexBadspx7M4sphjdlpPoUuvH6fRiQKBgQC9wr9ZVWVghK0y2YLi\nTe9Ubuv1qMMFz2uzMvqShS7zSXoz7OAN5HhNyNbeD8uhO8ZhTt2Sht5ngCv6GLoH\n7K6TFOThdabfbaMTpqJ5VbtKEBnDUGRUxB38zjjmkVDlBwDf5wynzvYRGzoBQpUf\nPNyFYfyDRhE5/zDEAEoMPSLCywKBgQC8Et5q3BVpG20LeSm74gQRu/g+j/HAQty/\n0OR3yCZkmTUx5/UYCRZ7KJn93U7HJfKxKxms3uWx+0qOmcwCulfbVTepFmbNa7Dd\nJeQTeNDt/z9nH9EO3BV4/3qnLW+R5H9qVtGwzjiLZkPrqjSOgBmLmOe5RptyC8vF\nslORsKIn+QKBgQCX7+i6JJAJWfI7tsD/Zhts5Wt0xO1yJ4Q6dWUAEDdpgLmh/dXg\nCcDxtw+juc33iR7sJvNuMSK+iHetxkKdubqF9cLVaxhz6Rsbzt5kfGp7gKzAIAxV\nernwA0a4Bj5ZQuRGYn9VlXacd8pX2/H+kwKWocBHc8CzSUrIhNrFNeYxRQKBgCdH\n6Zx4CyDA0a2ryMOtGRx7HgYzGlMFpAWMI6vA6gPo2+tofxBeFYvzlvYm2uVNT7sh\nPWOVynO6AIB4LtwC/4aX7eArBZ2x+Ga4G0LV4Q1UWnG3e3qXDQUQlxWDr+HQz6vu\nJi2/ZJ/45Aa8re11Y+B8NynDTYQsYosQC9RKCBRBAoGBAJMzrz9v9niGtr11LZMz\nrr6rj6kKm1BZRXW+mx3e4I6y5R4m6b+ZLINFM03xWkhdJTkKD2iaw24ghCAezgPR\nytbVd1esf0WnNOoFgg2c+u7m8mLah9Fmajbrm6SqnicSGsdIHeUhaOXOhjq5ExOM\n1lSdKRLDQAzo4HHhI+LpUEGq\n-----END PRIVATE KEY-----\n",
+  "client_email": "lector-cachim-bot@mythic-rain-462716-b4.iam.gserviceaccount.com",
+  "client_id": "112031712663802954688",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lector-cachim-bot%40mythic-rain-462716-b4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
